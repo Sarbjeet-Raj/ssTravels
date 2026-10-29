@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <defs>
+    <linearGradient id="goldGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#F6D365" />
+      <stop offset="100%" stop-color="#D4AF37" />
+    </linearGradient>
+    <linearGradient id="navyGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0B162C" />
+      <stop offset="100%" stop-color="#070D1B" />
+    </linearGradient>
+  </defs>
+  <rect width="100" height="100" rx="22" fill="url(#navyGrad)" stroke="url(#goldGrad)" stroke-width="3"/>
+  <!-- Crown top -->
+  <path d="M 32 30 L 38 42 L 50 32 L 62 42 L 68 30 L 64 48 L 36 48 Z" fill="url(#goldGrad)"/>
+  <!-- S&S monogram text -->
+  <text x="50" y="72" font-family="'Cinzel', 'Playfair Display', Georgia, serif" font-weight="bold" font-size="24" fill="url(#goldGrad)" text-anchor="middle" letter-spacing="1">S&amp;S</text>
+  <!-- Car silhouette baseline -->
+  <path d="M 30 78 Q 50 82 70 78" stroke="url(#goldGrad)" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+</svg>
