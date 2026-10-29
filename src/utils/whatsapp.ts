@@ -6,7 +6,7 @@ export const BUSINESS_INFO = {
   primaryPhoneRaw: '+919811746447',
   secondaryPhone: '+91 9956824335',
   secondaryPhoneRaw: '+919956824335',
-  email: 'sarifulhasan168@gmail.com',
+  email: 'ssroyaltours099@gmail.com',
   whatsappNumber: '919811746447',
   primaryServiceAreas: [
     'Delhi NCR',
