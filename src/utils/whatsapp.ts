@@ -15,7 +15,7 @@ export const BUSINESS_INFO = {
     'Ghaziabad',
     'Gurugram',
     'Faridabad',
-    'Outstation Destinations Across India'
+    'Outstation destinations across India'
   ],
 };
 
